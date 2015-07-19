@@ -1,6 +1,6 @@
 {
   "name": "upyun-multipart-upload",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Image preview is plugin that loads image selected by input file field without uploading it on server.",
   "repository": {
     "type": "git",
